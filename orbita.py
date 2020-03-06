@@ -34,5 +34,5 @@ while op!=0:
     elif op!=0 or op!=1 or op!=2:
         print("Digite uma opção valida")
 else:
-    print("Finalizando o software")
+    print("Finalizando o software ")
     
