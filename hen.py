@@ -89,7 +89,7 @@ while op!=0:
     elif op==0:
         print('Fim do jogo! Volte sempre!')
     else:
-        print ("Opção invalida")
+        print ("Opção invalida ")
 
 #a=int(input("digite um numero: "))
 #b=int(input("digite um numero: "))
